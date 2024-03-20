@@ -4,3 +4,5 @@
 
 
 # Hi! ✋ I'm Sankha Saha <sub>Widely known as CODR</sub>
+
+      <img src="https://github.com/codr07/codr07/blob/2d8fa069ceded72ce55b9420d79b2cc0e957851b/NUX_Octodex.gif" width="250"  />
