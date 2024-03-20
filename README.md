@@ -5,4 +5,12 @@
 
 # Hi! ✋ I'm Sankha Saha <sub>Widely known as CODR</sub>
 
-      <img src="https://github.com/codr07/codr07/blob/2d8fa069ceded72ce55b9420d79b2cc0e957851b/NUX_Octodex.gif" width="250"  />
+   <img src="https://github.com/codr07/codr07/blob/2d8fa069ceded72ce55b9420d79b2cc0e957851b/NUX_Octodex.gif" width="250" />
+
+I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta University . I'm passionate about coding and always eager to learn new things. Here's a bit about me:
+
+
+
+![Static Badge](https://img.shields.io/badge/Statistics-blue?style=plastic&label=Learning&labelColor=white) ![Static Badge](https://img.shields.io/badge/Contributer-green?style=plastic&logo=github&logoColor=white&label=Open%20Source) ![Static Badge](https://img.shields.io/badge/Tuitor-green?style=plastic&logo=hackerrank&logoColor=white&label=Coding)
+ ![Static Badge](https://img.shields.io/badge/Enthusiast-Red?style=plastic&logo=Google&logoColor=white&label=AI-ML)
+
