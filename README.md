@@ -11,6 +11,4 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
 
 
-![Static Badge](https://img.shields.io/badge/Statistics-blue?style=plastic&label=Learning&labelColor=white)  
-![Static Badge](https://img.shields.io/badge/Contributer-green?style=plastic&logo=github&logoColor=white&label=Open%20Source/) ![Static Badge](https://img.shields.io/badge/Tuitor-black?style=plastic&logo=hackerrank&logoColor=white&label=Coding)  
-![Static Badge](https://img.shields.io/badge/Enthusiast-red?style=plastic&logo=Google&logoColor=white&label=AI-ML)
+![Static Badge](https://img.shields.io/badge/Statistics-blue?style=plastic&label=Learning&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Contributer-green?style=plastic&logo=github&logoColor=white&label=Open%20Source) ![Static Badge](https://img.shields.io/badge/Tuitor-black?style=plastic&logo=hackerrank&logoColor=white&label=Coding)  ![Static Badge](https://img.shields.io/badge/Enthusiast-red?style=plastic&logo=Google&logoColor=white&label=AI-ML)
