@@ -62,4 +62,4 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/codr07/codr07/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
