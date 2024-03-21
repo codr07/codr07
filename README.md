@@ -11,4 +11,6 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
 
 
-![Static Badge](https://img.shields.io/badge/Statistics-blue?style=plastic&label=Learning&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Contributer-green?style=plastic&logo=github&logoColor=white&label=Open%20Source) ![Static Badge](https://img.shields.io/badge/Tuitor-black?style=plastic&logo=hackerrank&logoColor=white&label=Coding)  ![Static Badge](https://img.shields.io/badge/Enthusiast-red?style=plastic&logo=Google&logoColor=white&label=AI-ML)
+![Static Badge](https://img.shields.io/badge/Statistics-blue?style=plastic&label=Learning&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Contributer-green?style=plastic&logo=github&logoColor=white&label=Open%20Source) ![Static Badge](https://img.shields.io/badge/Tuitor-black?style=plastic&logo=hackerrank&logoColor=white&label=Coding)  ![Static Badge](https://img.shields.io/badge/Enthusiast-red?style=plastic&logo=Google&logoColor=white&label=AI-ML) ![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn) ![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)  ![Static Badge](https://img.shields.io/badge/Designer%20-%20%23d1829c?label=Graphic&labelColor=White)
+
+
