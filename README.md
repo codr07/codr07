@@ -48,6 +48,8 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codracademy&show_icons=true&locale=en" alt="codracademy" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codr07&show_icons=true&locale=en" alt="codr07" /></p>
+
   ## 🏆 Github Trophies:
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codr07" alt="codr07" /></a> </p>
@@ -55,3 +57,4 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codr07&label=Profile%20views&color=0e75b6&style=flat" alt="codr07" /> </p>
+
