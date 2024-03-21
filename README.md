@@ -45,9 +45,11 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 # 📊 GitHub Stats:
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codr07&show_icons=true&locale=en&layout=compact" alt="codr07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codracademy&show_icons=true&locale=en&layout=compact" alt="codracademy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codracademy&show_icons=true&locale=en" alt="codracademy" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codr07&show_icons=true&locale=en&layout=compact" alt="codr07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codr07&show_icons=true&locale=en" alt="codr07" /></p>
 </div>
