@@ -74,5 +74,14 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
 ![GitHub metrics](https://metrics.lecoq.io/codr07)  
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codr07/codr07/output/snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
