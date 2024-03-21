@@ -60,3 +60,6 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codr07&label=Profile%20views&color=0e75b6&style=flat" alt="codr07" /> </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/codr07/codr07/output/snake.svg" alt="Snake animation" />
