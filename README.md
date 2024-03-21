@@ -72,3 +72,7 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
   <h4> CODR Academy Profle Views :</h4> <p align="left"> <img src="https://komarev.com/ghpvc/?username=codracademy&label=Profile%20views&color=0e75b6&style=flat" alt="codracademy" /> </p> <h4> Sankha Saha Profle Views :</h4> <p align="left"> <img src="https://komarev.com/ghpvc/?username=codr07&label=Profile%20views&color=0e75b6&style=flat" alt="codr07" /> </p>
 
+![GitHub metrics](https://metrics.lecoq.io/codr07)  
+
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
