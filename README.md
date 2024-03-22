@@ -80,13 +80,7 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
   <p><a href="https://holopin.io/@codr07"><img src="https://holopin.me/codr07" alt="@codr07;s Holopin board"></a></p>
 </details>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codr07/codr07/output/snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <hr/>
 
