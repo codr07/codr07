@@ -52,7 +52,9 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 </div>
 
   ### Sankha Saha Stats :
-  
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sooty-mu.vercel.app?user=codr07&theme=radical&hide_border=true&background=45%2C1C26EB%2C000000" alt="GitHub Streak" /></a>
+</div>
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codr07&show_icons=true&locale=en&layout=compact" alt="codr07" /></p>
 
@@ -74,6 +76,10 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
 ![GitHub metrics](https://metrics.lecoq.io/codr07)  
 
+<summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@codr07"><img src="https://holopin.me/codr07" alt="@codr07;s Holopin board"></a></p>
+</details>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
