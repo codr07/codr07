@@ -53,9 +53,6 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
   ### Sankha Saha Stats :
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sooty-mu.vercel.app?user=codr07&theme=radical&hide_border=true&background=45%2C1C26EB%2C000000" alt="GitHub Streak" /></a>
-</div>
-<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codr07&show_icons=true&locale=en&layout=compact" alt="codr07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codr07&show_icons=true&locale=en" alt="codr07" /></p>
