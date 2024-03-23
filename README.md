@@ -64,7 +64,6 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codr07" alt="codr07" /></a> </p>
 <br/>
 
-  ### CODR Academy Trophies :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codracademy" alt="codracademy" /></a> </p>
 
 <br/>
