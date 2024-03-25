@@ -52,7 +52,8 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 </div>
 
   ### Sankha Saha Stats :
-<div align="center">
+
+<div style="text-align: center;">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=codr07)](https://git.io/streak-stats)
 </div>
 <div align="center">
