@@ -79,7 +79,7 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
 
  <a href="https://github.com/codr07/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=codr07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
-![GitHub metrics](https://metrics.lecoq.io/insights/codr07)  
+[![codr07's GitHub | Dependencies](https://stats.quine.sh/codr07/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codr07)
 
 
 
