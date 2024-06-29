@@ -81,6 +81,12 @@ I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta Unive
  
 [![codr07's GitHub | Dependencies](https://stats.quine.sh/codr07/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codr07)
 
+[![codr07's GitHub | Stats](https://stats.quira.sh/codr07/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=codr07)
+
+[![codr07's GitHub | Topics Over Time](https://stats.quira.sh/codr07/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=codr07)
+
+[![codr07's GitHub | Languages Over Time](https://stats.quira.sh/codr07/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=codr07)
+
 
 
 <summary><h2>🏷️ Holopin Badges</h2></summary>
