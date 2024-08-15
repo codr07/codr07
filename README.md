@@ -7,7 +7,7 @@
 
    <img src="https://github.com/codr07/codr07/blob/2d8fa069ceded72ce55b9420d79b2cc0e957851b/NUX_Octodex.gif" width="250" />
 
-I'm a student pursuing B.Sc Statistics Hons. from Asutosh College,Caltutta University . I'm passionate about coding and always eager to learn new things. Here's a bit about me:
+I hav done my undergrad in B.Sc Statistics Hons. from Asutosh College,Caltutta University . I'm passionate about coding and always eager to learn new things. Here's a bit about me:
 
 
 
