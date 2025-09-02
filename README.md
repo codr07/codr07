@@ -78,16 +78,6 @@ I hav done my undergrad in B.Sc Statistics Hons. from Asutosh College,Caltutta U
   <h4> CODR Academy Profle Views :</h4> <p align="left"> <img src="https://komarev.com/ghpvc/?username=codracademy&label=Profile%20views&color=0e75b6&style=flat" alt="codracademy" /> </p> <h4> Sankha Saha Profle Views :</h4> <p align="left"> <img src="https://komarev.com/ghpvc/?username=codr07&label=Profile%20views&color=0e75b6&style=flat" alt="codr07" /> </p>
 
  <a href="https://github.com/codr07/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=codr07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- 
-[![codr07's GitHub | Dependencies](https://stats.quine.sh/codr07/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codr07)
-
-[![codr07's GitHub | Stats](https://stats.quira.sh/codr07/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=codr07)
-
-[![codr07's GitHub | Topics Over Time](https://stats.quira.sh/codr07/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=codr07)
-
-[![codr07's GitHub | Languages Over Time](https://stats.quira.sh/codr07/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=codr07)
-
-
 
 <summary><h2>🏷️ Holopin Badges</h2></summary>
 
