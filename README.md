@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Developer+%7C+Designer+%7C+Editor;Shader+Explorer+%7C+UI+Enthusiast;+Data+Analyst+%7C+Mathematician;Always+building+something+fun!&center=true&width=800&height=30&color=140102&vCenter=true&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Developer+%7C+Designer+%7C+Editor;Shader+Explorer+%7C+UI+Enthusiast;+Data+Analyst+%7C+Mathematician;Always+building+something+fun!&center=true&width=800&height=30&color=750505&vCenter=true&size=28" />
 </p>
 
 
@@ -27,7 +27,7 @@ Currently pursuing M.Sc Data Science from Amity University , Bengaluru. I have d
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook%20-%20Blue?style=social&logo=Facebook)](https://www.facebook.com/codr69) [![Instagram](https://img.shields.io/badge/Instagram%20-%20Pink?style=social&logo=Instagram)](https://www.instagram.com/codr_sankha/) [![LinkedIn](https://img.shields.io/badge/Linkedin-Lightblue?style=social&logo=Linkedin)](https://www.linkedin.com/in/sankhasaha/) [![Twitter](https://img.shields.io/badge/Twitter(X)-Black?style=social&logo=X)](https://twitter.com/SankhaSaha6) 
+[![Facebook](https://img.shields.io/badge/Facebook%20-%20Blue?style=social&logo=Facebook)](https://www.facebook.com/codr69) [![Instagram](https://img.shields.io/badge/Instagram%20-%20Pink?style=social&logo=Instagram)](https://www.instagram.com/codr_sankha/) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/sankhasaha/) [![Twitter](https://img.shields.io/badge/Twitter(X)-Black?style=social&logo=X)](https://twitter.com/SankhaSaha6) 
 
 ![GitHub Followers](https://img.shields.io/github/followers/codr07?style=social)
 ![LinkedIn Connections](https://img.shields.io/badge/LinkedIn-500+-%230A66C2.svg?style=social&logo=linkedin)
