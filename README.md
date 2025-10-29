@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Developer+%7C+Designer+%7C+Editor;Shader+Explorer+%7C+UI+Enthusiast;Always+building+something+fun!&center=true&width=500&height=30&color=FBBF24&vCenter=true&size=18" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Developer+%7C+Designer+%7C+Editor;Shader+Explorer+%7C+UI+Enthusiast;+Data+Analyst+%7C+Mathematician;Always+building+something+fun!&center=true&width=800&height=30&color=FBBF24&vCenter=true&size=28" />
 </p>
 
 
 # Hi! ✋ I'm Sankha Saha <sub>Widely known as CODR</sub>
 
 
-I hav done my undergrad in B.Sc Statistics Hons. from Asutosh College,Caltutta University . I'm passionate about coding and always eager to learn new things. Here's a bit about me:
+Currently pursuing M.Sc Data Science from Amity University , Bengaluru. I have done my undergrad in B.Sc Statistics Hons. from Asutosh College,Caltutta University . I'm passionate about coding and always eager to learn new things. Here's a bit about me:
 
 
 
