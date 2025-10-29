@@ -13,9 +13,9 @@ Currently pursuing M.Sc Data Science from Amity University , Bengaluru. I have d
 ![Static Badge](https://img.shields.io/badge/Statistics-blue?style=plastic&label=Learning&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Contributer-green?style=plastic&logo=github&logoColor=white&label=Open%20Source) ![Static Badge](https://img.shields.io/badge/Tuitor-black?style=plastic&logo=hackerrank&logoColor=white&label=Coding)  ![Static Badge](https://img.shields.io/badge/Enthusiast-red?style=plastic&logo=Google&logoColor=white&label=AI-ML) ![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn) ![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)  ![Static Badge](https://img.shields.io/badge/Designer%20-%20%23d1829c?label=Graphic&labelColor=White) [![CodeTime Badge](https://img.shields.io/endpoint?style=plastic&color=528&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24994%26project%3D%26in=7776000000)](https://codetime.dev)
 
 
-- 💻 My technical skills include proficiency in programming languages like C, C++, Python, JavaScricpt, R and Discord.js
+- 💻 My technical skills include : <b>26 Coding Languages</b> , <b>MERN Stack</b> , <b>AI/ML/DL</b>.
 - 🛠️ I love to collaborate as an open-source contributor.
-- 📊 I'm currently <bold><u>learning Statistics</u>, <u>Machine Learning/Artificial Intelligence</u> and <u>Inferential Data analysis with Python and R programming.</u></bold>
+- 📊 I'm currently <bold><u>learning Statistics</u>, <u>Machine Learning/Artificial Intelligence</u> and <u> Data analysis with Python and R programming.</u></bold>
 - 📚 My hobby is Seeking for <bold >knowledge about new topics, Coding, Photography and Singing.</bold>
 - 🚀 Ongoing Development: Continuously improving my programming and development skills.
 
@@ -35,7 +35,7 @@ Currently pursuing M.Sc Data Science from Amity University , Bengaluru. I have d
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Black?style=plastic&logo=JavaScript&color=black) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Static Badge](https://img.shields.io/badge/R%20-%20black?style=plastic&logo=R)
+![JavaScript](https://img.shields.io/badge/JavaScript-Black?style=plastic&logo=JavaScript&color=black) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Static Badge](https://img.shields.io/badge/R%20-%20black?style=plastic&logo=R)
 ![Static Badge](https://img.shields.io/badge/Photoshop%20-%20%232143ed?style=plastic&logo=Adobe) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 
 # 🛠️Language And Tools
