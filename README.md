@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/codr07/codr07/raw/489f53056a549a15afa62268da54bb34bcd5348f/githubwelcome.gif" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Developer+%7C+Designer+%7C+Editor;Shader+Explorer+%7C+UI+Enthusiast;+Data+Analyst+%7C+Mathematician;Always+building+something+fun!&center=true&width=800&height=30&color=750505&vCenter=true&size=28" />
 </p>
 
